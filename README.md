@@ -1,4 +1,4 @@
-# Pattern Recognition for Water Safety Classification
+# Water Safety Classification
 
 ## Project Overview
 This project aims to design and implement a suitable pattern recognition technique to classify different water safety conditions. The focus is on leveraging machine learning models to determine whether a given water sample is safe or unsafe for consumption.
